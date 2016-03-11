@@ -1,7 +1,7 @@
 name: practice
 favicon: null
-layout_spectrum: 0.5789405661635101
-typography_spectrum: 0.30792738404124975
+layout_spectrum: 0.87832
+typography_spectrum: 0.79155
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#f3f4f9'
+    - '#76777c'
+    - '#441410'
+    - '#c7bdbf'
+    - '#d94960'
   brandStrength: 0.9994896317366511
   lightness: 0.7307702817488462
-  saturation: 0.8537376183085144
+  saturation: 0.8125
   rhythmicContrast: 0.939390602055937
 purpose: []
